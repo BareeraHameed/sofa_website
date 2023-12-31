@@ -1,2 +1,2 @@
 # sofa_website
-thos is sofa purchasing website
+This is sofa purchasing website
